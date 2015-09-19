@@ -1,0 +1,1 @@
+Liferay.Service.register("Liferay.Service.bankcapital", "com.bank.service", "capitalone-portlet");
