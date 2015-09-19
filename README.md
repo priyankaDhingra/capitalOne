@@ -1,7 +1,7 @@
-Created during Pearl Hacks 2014
--------------------------------
+--------------------------------------
 Liferay Portlet using Capital One API
 --------------------------------------
+Created during Pearl Hacks 2014
 
 TO RUN:-
 _________
